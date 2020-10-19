@@ -1,3 +1,26 @@
+## boost_sml (noetic) - 0.1.0-2
+
+The packages in the `boost_sml` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic boost_sml` on `Mon, 19 Oct 2020 20:21:29 -0000`
+
+The `boost_sml` package was released.
+
+Version of package(s) in repository `boost_sml`:
+
+- upstream repository: https://github.com/PickNikRobotics/boost_sml.git
+- release repository: https://github.com/PickNikRobotics/boost_sml-release.git
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.0-1`
+- new version: `0.1.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## boost_sml (noetic) - 0.1.0-1
 
 The packages in the `boost_sml` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic boost_sml` on `Tue, 13 Oct 2020 16:08:44 -0000`
