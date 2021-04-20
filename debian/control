@@ -1,0 +1,12 @@
+Source: ros-melodic-boost-sml
+Section: misc
+Priority: optional
+Maintainer: Tyler Weaver <tyler@picknik.ai>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-melodic-catkin, ros-melodic-roscpp, ros-melodic-roslint, ros-melodic-rostest, ros-melodic-rosunit
+Homepage: https://boost-experimental.github.io/sml/
+Standards-Version: 3.9.2
+
+Package: ros-melodic-boost-sml
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-melodic-roscpp, ros-melodic-roslint
+Description: State machine library with ros logging
